@@ -1,4 +1,5 @@
 *.bin
 *.bin.dSYM
 *.txt
+*.swp
 main
