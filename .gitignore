@@ -3,3 +3,6 @@
 *.txt
 *.swp
 main
+
+.idea/
+.DS_Store
